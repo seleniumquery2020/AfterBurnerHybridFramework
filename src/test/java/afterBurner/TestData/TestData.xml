@@ -1,0 +1,24 @@
+<xml>
+	<products>
+		<product>
+			<Name id="tvId">TV</Name>
+			<Brand>Apple</Brand>
+		</product>
+		<product>
+			<Name>Laptop</Name>
+			<Brand>Dell</Brand>
+		</product>
+		<product>
+			<Name>Phone</Name>
+			<Brand>iPhone</Brand>
+		</product>
+		<product>
+			<Name>AC</Name>
+			<Brand>Samsung</Brand>
+		</product>
+		<product>
+			<Name>Sound</Name>
+			<Brand>JBL</Brand>
+		</product>
+	</products>
+</xml>
