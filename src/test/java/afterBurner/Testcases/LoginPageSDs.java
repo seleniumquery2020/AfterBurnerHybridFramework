@@ -1,7 +1,6 @@
 package afterBurner.Testcases;
 
 import afterBurner.PageObject.LoginPage;
-import afterBurner.Utilities.WebDriverUtilitise;
 import afterBurner.Utilities.WebInteraction;
 
 public class LoginPageSDs {
