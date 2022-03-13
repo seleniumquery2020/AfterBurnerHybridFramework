@@ -16,13 +16,20 @@ public class LoginPageSDs {
 		String title = WebInteraction.getText(loginPage.pageTitle);
 		System.out.println(title);
 	}
-
-	public void display() {
-		System.out.println("new Method");
+	
+	public static void verifyPageHeader() {
+		String title = WebInteraction.getText(loginPage.pageTitle);
+		System.out.println(title);
 	}
 	public static void main(String[] args) {
 		startApplication();
 		loginPage = new LoginPage();
 		verifyPageTitle();
 	}
+
+
+	public void display() {
+		System.out.println("new Method");
+	}
+	
 }
