@@ -26,4 +26,10 @@ public class LoginPageSDs {
 		loginPage = new LoginPage();
 		verifyPageTitle();
 	}
+
+
+	public void display() {
+		System.out.println("new Method");
+	}
+	
 }
