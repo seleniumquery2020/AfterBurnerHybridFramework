@@ -17,6 +17,9 @@ public class LoginPageSDs {
 		System.out.println(title);
 	}
 
+	public void display() {
+		System.out.println("new Method");
+	}
 	public static void main(String[] args) {
 		startApplication();
 		loginPage = new LoginPage();
